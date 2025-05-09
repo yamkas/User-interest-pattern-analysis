@@ -1,2 +1,3 @@
+# User-interest-pattern-analysis
 Analisis pola minat pengguna terhadap kelas pelatihan kerja di platform MasaDepan.ku difokuskan pada pemahaman tren dan preferensi pengguna terkait berbagai kelas pelatihan yang ditawarkan. Analisis ini bertujuan untuk mengidentifikasi kelas yang paling diminati, faktor yang memengaruhi pemilihan kelas oleh pengguna, serta pola interaksi dan partisipasi pengguna dalam kegiatan pelatihan.
 # Dashboard Visualization : https://public.tableau.com/views/Visualisasi_Final_Project4_Kelompok7C/Pengguna?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
